@@ -1,6 +1,6 @@
 namespace Calculator;
 
-public class Substraction : ISubstraction
+public class Substraction : IOperation
 {
     public float Calculate(float num1, float num2)
     {

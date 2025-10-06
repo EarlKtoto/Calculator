@@ -1,6 +1,6 @@
 namespace Calculator;
 
-public class Division : IDivision
+public class Division : IOperation
 {
     public float Calculate(float num1, float num2)
     {
